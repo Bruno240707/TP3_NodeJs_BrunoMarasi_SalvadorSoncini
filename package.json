@@ -1,0 +1,19 @@
+{
+  "name": "tp3_bruno_marasi_salvador_soncini",
+  "version": "1.0.0",
+  "description": "TP3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno240707/TP3_NodeJs_BrunoMarasi_SalvadorSoncini.git"
+  },
+  "author": "Bruno Marasi, Salvador Soncini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno240707/TP3_NodeJs_BrunoMarasi_SalvadorSoncini/issues"
+  },
+  "homepage": "https://github.com/Bruno240707/TP3_NodeJs_BrunoMarasi_SalvadorSoncini#readme"
+}
